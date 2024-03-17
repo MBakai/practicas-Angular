@@ -1,0 +1,3 @@
+npm install ts-node-dev -D 
+/* este comando es para instalar un gestor de cambios en tiempo de ejecucion en modo
+/*desarrollo que hace la conversion de typescript a javascript y hace tambien la parte de nodemon
